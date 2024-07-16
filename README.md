@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areeba-farhan1234&label=Profile%20views&color=0e75b6&style=flat" alt="areeba-farhan1234" /> </p>
 
-- 🔭 I’m currently working on **Game Website**
+- 🔭 I’m currently learning on **advance React**
 
 - 🌱 I’m currently learning **Java,React**
 
