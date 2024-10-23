@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="center" alt="Coding" width="800" height="600" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <h1 align="center">Hi 👋, I'm Areeba Farhan</h1>
 <h3 align="center">A Passionate React Frontend Developer from Pakistan.</h3>
